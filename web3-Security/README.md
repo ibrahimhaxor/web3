@@ -134,10 +134,14 @@ https://youtube.com/playlist?list=PLO5VPQH6OWdWh5ehvlkFX-H3gRObKvSL6&si=LUOVf6tu
 
 https://youtube.com/playlist?list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi&si=N2p9OHHrjE_0cQCh
 
+https://youtube.com/playlist?list=PLmqenIp2RQcigN6BGJPeJWW45N1DtkBl9&si=NptQdOwHFSczgkYM
+
 https://downloadly.ir/elearning/video-tutorials/the-complete-solidity-course-blockchain-zero-to-expert/
 
 # WRITEUPS
 https://infosecwriteups.com/hacking-web3-introduction-and-how-to-start-88ae2c51f3ec
+
+https://medium.com/immunefi/the-top-10-most-common-vulnerabilities-in-web3-bf7a921d489f
 
 https://www.freecodecamp.org/news/learn-solidity-handbook/
 
@@ -148,6 +152,26 @@ https://medium.com/amber-group/web3-hacking-paradigm-ctf-2022-writeup-3102944fd6
 https://medium.com/rektify-ai/learning-from-the-biggest-defi-hacks-of-2023-1cab753ac4ea
 
 https://github.com/Credshields/audit-reports
+
+https://github.com/alysiahuggins/youtube_tutorials/tree/main/simulating-solidity-exploits
+
+https://github.com/PatrickAlphaC/hardhat-security-fcc/
+
+https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques
+
+https://github.com/Quillhash/Web3-Security-Tools
+
+https://github.com/softstackHQ/Smart-Contract-Security-Audits
+
+https://github.com/TechRate/Smart-Contract-Audits
+
+https://github.com/harendra-shakya/smart-contract-attack-vectors
+
+https://github.com/manifoldfinance/defi-threat
+
+https://github.com/0xisk/awesome-solidity-security
+
+https://github.com/vishnuram1999/audits
 
 // To be updated!
 // RoadMap to be added
